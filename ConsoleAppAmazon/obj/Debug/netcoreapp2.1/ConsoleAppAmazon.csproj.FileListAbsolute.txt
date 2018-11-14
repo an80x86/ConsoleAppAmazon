@@ -1,0 +1,11 @@
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppAmazon\bin\Debug\netcoreapp2.1\ConsoleAppAmazon.deps.json
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppAmazon\bin\Debug\netcoreapp2.1\ConsoleAppAmazon.runtimeconfig.json
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppAmazon\bin\Debug\netcoreapp2.1\ConsoleAppAmazon.runtimeconfig.dev.json
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppAmazon\bin\Debug\netcoreapp2.1\ConsoleAppAmazon.dll
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppAmazon\bin\Debug\netcoreapp2.1\ConsoleAppAmazon.pdb
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppAmazon\obj\Debug\netcoreapp2.1\ConsoleAppAmazon.csprojAssemblyReference.cache
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppAmazon\obj\Debug\netcoreapp2.1\ConsoleAppAmazon.csproj.CoreCompileInputs.cache
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppAmazon\obj\Debug\netcoreapp2.1\ConsoleAppAmazon.AssemblyInfoInputs.cache
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppAmazon\obj\Debug\netcoreapp2.1\ConsoleAppAmazon.AssemblyInfo.cs
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppAmazon\obj\Debug\netcoreapp2.1\ConsoleAppAmazon.dll
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppAmazon\obj\Debug\netcoreapp2.1\ConsoleAppAmazon.pdb

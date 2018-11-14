@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppAmazon", "ConsoleAppAmazon\ConsoleAppAmazon.csproj", "{D3AD2FB7-7DA7-4345-8A24-687F87A12F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AD2FB7-7DA7-4345-8A24-687F87A12F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AD2FB7-7DA7-4345-8A24-687F87A12F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AD2FB7-7DA7-4345-8A24-687F87A12F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AD2FB7-7DA7-4345-8A24-687F87A12F81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9812A52-E29F-461C-9D76-7C0E8183CFB6}
+	EndGlobalSection
+EndGlobal
