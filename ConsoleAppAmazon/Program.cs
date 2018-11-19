@@ -12,7 +12,7 @@ namespace ConsoleAppAmazon
 {
     class Program
     {
-        static string[] countries = {".com", ".de", ".co.uk", ".fr", ".it", ".es"};
+        static string[] countries = { ".de", ".fr", ".it", ".es", ".nl", ".co.uk", ".com" };
 
         static string[] products =
         {
@@ -38,6 +38,12 @@ namespace ConsoleAppAmazon
                         var rets = UrunDetay(country, product).GetAwaiter().GetResult();
                         if (rets != null)
                         {
+                            var productTitle = getBetween(rets, "<h1 id=\"title\" class=\"a-size-large a-spacing-none\">", "</h1>\n</div>");
+                            if (!string.IsNullOrWhiteSpace(productTitle))
+                            {
+                                var tmp = getBetween(productTitle, "<span id=\"productTitle\" class=\"a-size-large\">","</span>");
+                                var deme = getBeetweenCount(productTitle, "<span class=\"a-size-medium a-color-secondary a-text-normal\">", "</span>");
+                            }
                             string data = getBetween(rets, "<span class=\"a-color-base\">", "<");
                             if (!string.IsNullOrWhiteSpace(data)) data = data.Replace("\n", "").Trim();
 
@@ -98,6 +104,19 @@ namespace ConsoleAppAmazon
             }
 
             return null;
+        }
+
+        public static int getBeetweenCount(string strSource, string strStart, string strEnd)
+        {
+            int Start, End, count =0;
+            if (strSource.Contains(strStart) && strSource.Contains(strEnd))
+            {
+                Start = strSource.IndexOf(strStart, 0) + strStart.Length;
+                End = strSource.IndexOf(strEnd, Start);
+                var tmp = strSource.Substring(Start, End - Start);
+            }
+
+            return count;
         }
 
         public static string getBetween(string strSource, string strStart, string strEnd)

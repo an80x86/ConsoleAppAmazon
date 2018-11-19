@@ -1,0 +1,7 @@
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppWindows\bin\Debug\ConsoleAppWindows.exe.config
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppWindows\bin\Debug\ConsoleAppWindows.exe
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppWindows\bin\Debug\ConsoleAppWindows.pdb
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppWindows\obj\Debug\ConsoleAppWindows.csprojAssemblyReference.cache
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppWindows\obj\Debug\ConsoleAppWindows.csproj.CoreCompileInputs.cache
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppWindows\obj\Debug\ConsoleAppWindows.exe
+D:\Users\mustafa.bayer\Desktop\ConsoleAppAmazon\ConsoleAppWindows\obj\Debug\ConsoleAppWindows.pdb
